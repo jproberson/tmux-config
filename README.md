@@ -1,7 +1,7 @@
 # tmux-config
 
-clone:
+if first install then clone:
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
-source:
+if in tmux already then source:
 `tmux source ~/.tmux.conf`
